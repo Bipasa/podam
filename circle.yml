@@ -1,5 +1,5 @@
 general:
-  build_dir: ~/podam/src/main/java/uk/co/jemos/podam/
+  build_dir: podam
 
 machine:
   ruby:
