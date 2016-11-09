@@ -384,6 +384,13 @@
 				<version>2.18.1</version>
 			</plugin>
 			<plugin>
+                    
+                            <groupId>org.eclipse.mylyn.github</groupId>
+                            <artifactId>org.eclipse.egit.github.core</artifactId>
+                            <version>3.1.0.201310021548</version>
+                       
+                </plugin>
+			<plugin>
 				<groupId>org.jacoco</groupId>
 				<artifactId>jacoco-maven-plugin</artifactId>
 				<version>0.7.6.201602180812</version>
@@ -414,7 +421,7 @@
 		 <dependency>
                             <groupId>org.eclipse.mylyn.github</groupId>
                             <artifactId>org.eclipse.egit.github.core</artifactId>
-                            <version>2.1.5</version>
+                            <version>3.1.0.201310021548</version>
                 </dependency>
 		<dependency>
 			<groupId>net.jcip</groupId>
