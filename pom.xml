@@ -423,6 +423,10 @@
 			<id>github-project-site</id>
 			<url>gitsite:git@github.com/devopsfolks/podam.git</url>
 		</site>
+		<repository>
+			<id>egit</id>
+			<url>https://repo.eclipse.org/content/repositories/egit-releases/</url>
+		</repository>
 	</distributionManagement>
 
 	<dependencies>
